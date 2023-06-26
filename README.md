@@ -1,1 +1,1 @@
-LeNet -- a optical character recognition neural network -- implemented in Pytorch
+LeNet -- an optical character recognition neural network -- implemented in Pytorch
